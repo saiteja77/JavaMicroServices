@@ -1,0 +1,5 @@
+package com.microservice.zuulapigateway;
+
+public class ZuulLoggingFilter {
+
+}
